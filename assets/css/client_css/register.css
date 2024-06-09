@@ -1,0 +1,7 @@
+* {box-sizing: 300px;}
+
+/* Add padding to containers */
+.container {
+  padding: 30px;
+}
+
